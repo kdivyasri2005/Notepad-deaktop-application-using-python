@@ -3,7 +3,8 @@
 A lightweight notepad application built with Python and Tkinter that demonstrates the power of technology in simplifying everyday tasks. This tool combines essential text editing features with modern conveniences to enhance your productivity.
 
 ## 🌟 Technology Behind the Notepad
-![Technology Statistics](images/output.png)
+
+<img src="images/output.png" alt="Technology Statistics" width="400" />
 
 Technology represents the study of scientific knowledge to create tools and processes that transform our world by increasing efficiency in nearly every aspect of our lives. This notepad application exemplifies how technology:
 
