@@ -44,11 +44,10 @@ All icons are stored in the `icons/` folder:
 | ![bold](icons/bold.png) | Bold Text | Ctrl+B |
 | ![italic](icons/italic.png) | Italic Text | Ctrl+I |
 | ![underline](icons/underline.png) | Underline Text | Ctrl+U |
-| ![spellcheck](icons/spellcheck.png) | Toggle Spell Check | F7 |
 | ![left](icons/align_left.png) | Align Left | Ctrl+Shift+L |
 | ![center](icons/Align_Center.png) | Align Center | Ctrl+Shift+C |
 | ![right](icons/align_right.png) | Align Right | Ctrl+Shift+R |
-| ![color](icons/font-colo.png) | Font Color | Ctrl+Shift+F |
+| ![color](icons/font-colo.png) | Font Color | Ctrl+F |
 
 ## ▶️ Installation & Usage
 
